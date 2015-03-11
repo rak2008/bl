@@ -1,1 +1,0 @@
-طلب ({SET_RADIO}{RADIO}أ/{RADIO}د/{RADIO}أ.د{/SET_RADIO}) {INPUT} ({SET_RADIO}{RADIO}المعيد/{RADIO}المحاضر{/SET_RADIO}/أستاذ{INPUT} (المساعد/المشارك)) بقسم{INPUT} بكلية{INPUT} في جامعة الذي يرغبُ في الانتقال إلى قسم{INPUT} بكلية {INPUT} في جامعة الملك سعود.

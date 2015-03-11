@@ -1,1 +1,0 @@
-طلب د. {INPUT} أستاذ {INPUT} ({SET_RADIO}{RADIO}المشارك /{RADIO}المساعد{/SET_RADIO}) بقسم {INPUT} الذي يرغبُ في تفرُّغٍ علميٍّ مدَّة ({SET_RADIO}{RADIO}فصل دراسي واحد / {RADIO}عام دراسي{/SET_RADIO}) ابتداءً من{INPUT}
